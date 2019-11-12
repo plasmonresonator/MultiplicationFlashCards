@@ -1,0 +1,66 @@
+Level focused practice start time: 2019-11-04, 18:08:05
+Level focused practice start time: 2019-11-04, 18:08:17
+Problem 0: What is 12 x 11 ?	  	Correct answer is 132.  Your answer was 132.  CORRECT
+Level focused practice start time: 2019-11-04, 18:09:12
+Level focused practice start time: 2019-11-04, 18:09:49
+Problem 0: What is 10 x 12 ?	  	Correct answer is 120.  Your answer was 120.  CORRECT
+Problem 1: What is 10 x 8 ?	  	Correct answer is 80.  Your answer was 80.  CORRECT
+Problem 2: What is 10 x 12 ?	  	Correct answer is 120.  Your answer was 120.  CORRECT
+Problem 3: What is 10 x 11 ?	  	Correct answer is 110.  Your answer was 110.  CORRECT
+Problem 4: What is 10 x 2 ?	  	Correct answer is 20.  Your answer was 20.  CORRECT
+Problem 5: What is 10 x 4 ?	  	Correct answer is 40.  Your answer was 40.  CORRECT
+Problem 6: What is 10 x 6 ?	  	Correct answer is 60.  Your answer was 60.  CORRECT
+Problem 7: What is 10 x 6 ?	  	Correct answer is 60.  Your answer was 60.  CORRECT
+Problem 8: What is 10 x 8 ?	  	Correct answer is 80.  Your answer was 80.  CORRECT
+Problem 9: What is 10 x 2 ?	  	Correct answer is 20.  Your answer was 20.  CORRECT
+Problem 10: What is 10 x 1 ?	  	Correct answer is 10.  Your answer was 10.  CORRECT
+Problem 11: What is 10 x 9 ?	  	Correct answer is 90.  Your answer was 90.  CORRECT
+Problem 12: What is 10 x 10 ?	  	Correct answer is 100.  Your answer was 100.  CORRECT
+Problem 13: What is 10 x 8 ?	  	Correct answer is 80.  Your answer was 80.  CORRECT
+Problem 14: What is 10 x 9 ?	  	Correct answer is 90.  Your answer was 90.  CORRECT
+Problem 15: What is 10 x 4 ?	  	Correct answer is 40.  Your answer was 40.  CORRECT
+Problem 16: What is 10 x 3 ?	  	Correct answer is 30.  Your answer was 30.  CORRECT
+Problem 17: What is 10 x 1 ?	  	Correct answer is 10.  Your answer was 10.  CORRECT
+Problem 18: What is 10 x 12 ?	  	Correct answer is 120.  Your answer was 120.  CORRECT
+Problem 19: What is 10 x 1 ?	  	Correct answer is 10.  Your answer was 10.  CORRECT
+
+Total time to answer 10 problems: 0:02:50.110607 seconds.
+You answered 20 out of 10 questions correctly.
+
+ ################################################ 
+
+Level focused practice start time: 2019-11-04, 18:17:20
+Level focused practice start time: 2019-11-04, 18:18:57
+Problem 1: What is 1 x 9?	  	Correct answer is 111111111.  Your answer was 9.  WRONG
+Level focused practice start time: 2019-11-04, 18:19:23
+Problem 0: What is 11 x 2 ?	  	Correct answer is 22.  Your answer was 22.  CORRECT
+Problem 1: What is 11 x 9 ?	  	Correct answer is 99.  Your answer was 99.  CORRECT
+Problem 2: What is 11 x 5 ?	  	Correct answer is 55.  Your answer was 55.  CORRECT
+Problem 3: What is 11 x 4 ?	  	Correct answer is 44.  Your answer was 44.  CORRECT
+Level focused practice start time: 2019-11-04, 18:22:04
+Problem 0: What is 11 x 2 ?	  	Correct answer is 22.  Your answer was 22.  CORRECT
+Problem 1: What is 11 x 2 ?	  	Correct answer is 22.  Your answer was 22.  CORRECT
+Problem 2: What is 11 x 1 ?	  	Correct answer is 11.  Your answer was 11.  CORRECT
+Problem 3: What is 11 x 7 ?	  	Correct answer is 77.  Your answer was 77.  CORRECT
+Problem 4: What is 11 x 2 ?	  	Correct answer is 22.  Your answer was 22.  CORRECT
+Problem 5: What is 11 x 9 ?	  	Correct answer is 99.  Your answer was 99.  CORRECT
+Problem 6: What is 11 x 3 ?	  	Correct answer is 33.  Your answer was 33.  CORRECT
+Problem 7: What is 11 x 12 ?	  	Correct answer is 132.  Your answer was 11212.  WRONG
+Problem 8: What is 11 x 3 ?	  	Correct answer is 33.  Your answer was 33.  CORRECT
+Problem 9: What is 11 x 10 ?	  	Correct answer is 110.  Your answer was 110.  CORRECT
+Problem 10: What is 11 x 5 ?	  	Correct answer is 55.  Your answer was 55.  CORRECT
+Problem 11: What is 11 x 1 ?	  	Correct answer is 11.  Your answer was 11.  CORRECT
+Problem 12: What is 11 x 8 ?	  	Correct answer is 88.  Your answer was 88.  CORRECT
+Problem 13: What is 11 x 3 ?	  	Correct answer is 33.  Your answer was 33.  CORRECT
+Problem 14: What is 11 x 7 ?	  	Correct answer is 77.  Your answer was 77.  CORRECT
+Problem 15: What is 11 x 12 ?	  	Correct answer is 132.  Your answer was 132.  CORRECT
+Problem 16: What is 11 x 6 ?	  	Correct answer is 66.  Your answer was 66.  CORRECT
+Problem 17: What is 11 x 12 ?	  	Correct answer is 132.  Your answer was 132.  CORRECT
+Problem 18: What is 11 x 5 ?	  	Correct answer is 55.  Your answer was 55.  CORRECT
+Problem 19: What is 11 x 12 ?	  	Correct answer is 132.  Your answer was 132.  CORRECT
+
+Total time to answer 10 problems: 0:04:08.090664 seconds.
+You answered 19 out of 10 questions correctly.
+
+ ################################################ 
+
