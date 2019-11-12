@@ -1,6 +1,6 @@
 # Byte-compiled / optimized / DLL files
 credentials.py
-send_gmail_results
+send_gmail_results.py
 *.txt
 *.jpg
 *.jpeg
