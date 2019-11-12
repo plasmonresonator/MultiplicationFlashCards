@@ -1,4 +1,15 @@
 # Byte-compiled / optimized / DLL files
+credentials.py
+send_gmail_results
+*.txt
+*.jpg
+*.jpeg
+*.png
+*.csv
+*.xlsx
+
+
+
 __pycache__/
 *.py[cod]
 *$py.class
