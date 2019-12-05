@@ -7,7 +7,7 @@ right_answer_messages = ['Freaking awesome!  You got it right, I knew you could 
 						'Awesome-sauce!', 'You rock!!!',
 						'You are a multiplication GENIUS!!!',
 						'How did you get so smart?!?!']
-
+#test comment
 wrong_answer_messages = ['Oops! Either you got the wrong answer, or Daddy didn\'t code this right! Let\'s try another one...',
 						'Almost! Maybe try one of your math strategies next time you\'re having trouble?',
 						'Oops! I know you can figure that one out, maybe you typed the wrong number by accident?',

@@ -19,7 +19,7 @@ greeting_messages = ['Hello, Meatbag!']
 # wrong = []
 # wrong2 = []
 
-   
+
 
 def get_problem(problem, question_number, round=1):
     random.shuffle(problem)
@@ -29,7 +29,10 @@ def get_problem(problem, question_number, round=1):
     answer = input(f"\nWhat is {show} ?\t")
     #NEED TO HANDLE FOR IF AN INTEGER IS NOT ENTERED
     calc = num1*num2
-    answer = int(answer)
+    try:
+        answer = int(answer)
+    except:
+        answer = answer
     if answer == calc:
         right.append(problem)
         f.write(f"Correct\t{show}\t{answer}\n")

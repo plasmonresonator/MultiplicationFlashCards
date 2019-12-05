@@ -174,7 +174,7 @@ while keep_playing == str.lower('y'):
 		# 	break
 		# except ValueError:
 		# 	print("\nThat's not a number silly!!! Try typing the number you want to focus on again!!! :-)")
-	common_numbers = deque(common_numbers_master)
+	# common_numbers = deque(common_numbers_master)
 	i = 0
 	do_level('focused practice', focus, common_numbers, name, i)
 	keep_playing = input('Do you want to play again? (Type y or n and then press enter)\n')

@@ -72,7 +72,7 @@ def get_problem(problem, question_number, round=1):
     num1 = problem[0]
     num2 = problem[1]
     show = f'{num1} x {num2} ?'
-    answer = input(f"What is {show}")
+    answer = input(f"\nWhat is {show}")
     #NEED TO HANDLE FOR IF AN INTEGER IS NOT ENTERED
     calc = num1*num2
     answer = int(answer)
@@ -84,12 +84,12 @@ def get_problem(problem, question_number, round=1):
         # display_image('correct', question_number)
     else:
         if round == 1:
-            print(f"Sorry, the correct answer is {calc}.\n\tWe'll revisit that one again later.")
+            print(f"\nSorry, the correct answer is {calc}.\n\tWe'll revisit that one again later.\n")
             wrong.append(problem)
             f.write(f"WRONG\t{show}{answer}\n")
             # display_image('wrong', question_number)
         else:
-            print(f"Oops!  The correct answer is {calc}.")
+            print(f"\nOops!  The correct answer is {calc}.\n")
             wrong2.append(problem)
             # display_image('wrong', question_number)
             f.write(f"WRONG\t{show}{answer}\n")

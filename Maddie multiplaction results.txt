@@ -64,3 +64,20 @@ You answered 19 out of 10 questions correctly.
 
  ################################################ 
 
+Level 1 start time: 2019-11-24, 12:45:06
+Problem 0: What is 2 x 10 ?	  	Correct answer is 20.  Your answer was 20.  CORRECT
+Problem 1: What is 10 x 0 ?	  	Correct answer is 0.  Your answer was 0.  CORRECT
+Problem 2: What is 2 x 5 ?	  	Correct answer is 10.  Your answer was 10.  CORRECT
+Problem 3: What is 1 x 6 ?	  	Correct answer is 6.  Your answer was 6.  CORRECT
+Problem 4: What is 1 x 3 ?	  	Correct answer is 3.  Your answer was 3.  CORRECT
+Problem 5: What is 0 x 11 ?	  	Correct answer is 0.  Your answer was 0.  CORRECT (2nd try)
+Problem 6: What is 10 x 3 ?	  	Correct answer is 30.  Your answer was 30.  CORRECT (2nd try)
+Problem 7: What is 2 x 5 ?	  	Correct answer is 10.  Your answer was 10.  CORRECT
+Problem 8: What is 2 x 1 ?	  	Correct answer is 2.  Your answer was 2.  CORRECT
+Problem 9: What is 2 x 5 ?	  	Correct answer is 10.  Your answer was 10.  CORRECT
+
+Total time to answer 10 problems: 0:00:30.076044 seconds.
+You answered 10 out of 10 questions correctly.
+
+ ################################################ 
+
